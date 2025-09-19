@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### SANKE
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Willplayz112/Willplayz112/refs/heads/output/snake.svg" alt="Snake animation" />
